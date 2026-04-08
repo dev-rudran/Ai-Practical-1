@@ -1,0 +1,24 @@
+Number String Game Experiment Results
+========================================
+
+MINIMAX Algorithm Results:
+  Games played: 10
+  Human wins: 4 (40.0%)
+  Computer wins: 0 (0.0%)
+  Draws: 6 (60.0%)
+  Avg. time per game: 0.381s
+  Avg. nodes per game: 52992
+  Avg. moves per game: 19.0
+
+ALPHABETA Algorithm Results:
+  Games played: 10
+  Human wins: 4 (40.0%)
+  Computer wins: 0 (0.0%)
+  Draws: 6 (60.0%)
+  Avg. time per game: 0.093s
+  Avg. nodes per game: 37459
+  Avg. moves per game: 18.0
+
+Comparison:
+  Alpha-Beta is 4.1x faster than Minimax
+  Alpha-Beta evaluates 29.3% fewer nodes
